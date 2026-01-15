@@ -18,7 +18,8 @@ _Public Record & Archive Index Ledger_
 
 | Year | File | Status | Notes |
 |------|------|---------|-------|
-| 2025 | [changelogs/2025.md](./changelogs/2025.md) | Active | Running log |
+| 2026 | [changelogs/2026.md](./changelogs/2026.md) | Active | Running log |
+| 2025 | [changelogs/2025.md](./changelogs/2025.md) | Placeholder | Reconstruction phase |
 | 2024 | [changelogs/2024.md](./changelogs/2024.md) | Placeholder | Reconstruction phase |
 | 2023 | [changelogs/2023.md](./changelogs/2023.md) | Placeholder | Reconstruction phase |
 | 2022 | [changelogs/2022.md](./changelogs/2022.md) | Placeholder | Reconstruction phase |
